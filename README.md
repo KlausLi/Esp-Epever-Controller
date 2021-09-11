@@ -49,7 +49,7 @@ Keinen USB/TTL Adapter als 3,3v Poduktiv Stromquelle verwenden, für erstflashen
 ESP:
 
 EINRICHTUNG##############################################################################################
-- 0.Bei Nutzung von Mqtt: Mqtt.fx Client öffnen mit Broker verbinden und Topic : 'Soyosource/#' abonnieren
+- 0.Bei Nutzung von Mqtt: Mqtt.fx Client öffnen mit Broker verbinden und Topic : 'Epever/#' abonnieren
 - 0.1 Es kommt nach Schritt 8. ein Info Publish vom Esp mit der IP adresse.
 - 0.2 Man kann die Ip Adresse nat. auch auf dem herkömmlichen Weg herausfinden
 - 1.Firmware auf den gelöschten Esp8266 flashen
