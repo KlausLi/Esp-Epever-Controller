@@ -73,5 +73,9 @@ INBETRIEBNAHME##################################################################
 Tip:
 - Die Webschnittstelle für die Tracer Daten nur max alle 1-2 sekunden aufrufen
 
+Trace Json Beispiel:
+<img src="epeverjsondata.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+
+
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
 Hier bitte - https://paypal.me/armerprogrammer
