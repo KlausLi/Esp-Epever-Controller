@@ -22,6 +22,8 @@ Was kann der ESP8266 Epever Controller :
 - Anzeige aller verfügbaren Daten des Tracer in der Webseite
 - Übermittlung per Mqtt aller verfügbaren Tracer Daten als Json Array  (Topic steht in der Webseite)
 - Übermittlung per Webinterface  aller verfügbaren Tracer Daten als Json Array (Url steht in der Webseite)
+- Anzeige der Wlan Signalstärke in der Webseite, je näher an 0 desto besser ist das Signal, z.B. 75 is grenzwertig OK 
+(RSSI wird nicht aktualisiert, für aktuellen Wert, F5 im Browser drücken)
 - Doppelreset implementierung um wieder ins Configportal im eigenen Esp AP zu kommen
 - ElegantOta Implementierung für FirmwareUpdates
 - ...
