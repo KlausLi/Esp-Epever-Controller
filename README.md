@@ -1,3 +1,6 @@
+Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
+der Software entstehen oder entstanden sind. Jeder ist für sein tun selber verantwortlich.
+
 <img src="Tracer10420an.png" alt="Soyosource Controller by BavarianSuperGuy"/>
 
 # EspEpeverController mit Webseite 
