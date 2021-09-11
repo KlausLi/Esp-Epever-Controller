@@ -1,9 +1,10 @@
 <img src="Tracer10420an.png" alt="Soyosource Controller by BavarianSuperGuy"/>
 
-# EspEpeverController mit Webseite
+# EspEpeverController mit Webseite 
 Der Esp8266 ist über ein Rs485 Modul mit dem Epever Solar Laderegler verbunden und kann diesen die verfügbaren Daten auslesen bzw. auch das LoadReails des Tracer ein und ausschalten. 
 
 Kurzum die Firmware die es hier zum Download gibt stellt ein Montitoring über Web bereit.
+Getestet wurde die Kommunikation mitdem Tracer 10420 AN, warscheinlich funzt es für alle Epever.
 
 Die Firmware(firmware_vX.X.X.X.bin") ist im Verzeichnis espflasher.
 Diese kann unkompliziert auf einen 4Mbyte Esp mit dem im Verzeichnis enhaltenen
@@ -73,7 +74,7 @@ INBETRIEBNAHME##################################################################
 Tip:
 - Die Webschnittstelle für die Tracer Daten nur max alle 1-2 sekunden aufrufen
 
-Trace Json Beispiel:
+Epever Tracer Json Beispiel:
 <img src="epeverjsondata.png" alt="Soyosource Controller by BavarianSuperGuy"/>
 
 
