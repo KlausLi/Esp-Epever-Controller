@@ -1,7 +1,9 @@
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
-der Software entstehen oder entstanden sind. Jeder ist für sein tun selber verantwortlich.
+der Software entstehen oder entstanden sind. 
+Jeder ist für sein tun selber verantwortlich.
+Mir sind keine Probleme bekannt.
 
-<img src="Tracer10420an.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="Tracer10420an.png" alt="Epever Controller by BavarianSuperGuy"/>
 
 # EspEpeverController mit Webseite 
 Der Esp8266 ist über ein Rs485 Modul mit dem Epever Solar Laderegler verbunden und kann diesen die verfügbaren Daten auslesen bzw. auch das LoadReails des Tracer ein und ausschalten. 
@@ -14,7 +16,7 @@ Diese kann unkompliziert auf einen 4Mbyte Esp mit dem im Verzeichnis enhaltenen
 Tool "FlashESP8266.exe" geflasht werden. 
 Dieses Tool FlashESP8266.exe ist nicht von mir , aber hat schon hevorragende Dienste geleistet.
 
-<img src="WebSeite-Epever Controller.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="WebSeite-Epever Controller.png" alt="Epever Controller by BavarianSuperGuy"/>
 
 Was kann der ESP8266 Epever Controller :
 
@@ -33,17 +35,17 @@ Was kann der ESP8266 Epever Controller :
 
 
 
-<img src="Tracer_Rj45_Rs485.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="Tracer_Rj45_Rs485.png" alt="Epever Controller by BavarianSuperGuy"/>
 
 RS485 ttl Adapter (2 verschiedene getestet)
 - rs485 adapter A an A von Epever Rj45(Pin5) anschliessen und Rs485 B an  Epever Rj45 B (Pin4)
 
-<img src="rs485.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="rs485.png" alt="Epever Controller by BavarianSuperGuy"/>
 - Beim "DI DE RE RO" Rs485 Modul
 werden die mittleren Rs485 Pins "DE RE" auf einen Pin gebrückt an Esp GPIO0 angeschlossen.
 Dann Rs485 "DI" auf Esp TX  und Rs485 "RO" auf Esp RX 
 
-<img src="rs485_2 .png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="rs485_2 .png" alt="Epever Controller by BavarianSuperGuy"/>
 - Beim RX TX Rs485 Modul
 wird der Rs485 TX mit Esp TX verbunden und Rs485 RX mit Esp RX verbunden , also nicht kreuzen!
 
@@ -80,7 +82,7 @@ Tip:
 - Die Webschnittstelle für die Tracer Daten nur max alle 1-2 sekunden aufrufen
 
 Epever Tracer Json Beispiel:
-<img src="epeverjsondata.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="epeverjsondata.png" alt="Epever Controller by BavarianSuperGuy"/>
 
 
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
