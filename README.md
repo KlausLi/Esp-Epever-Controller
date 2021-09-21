@@ -67,7 +67,7 @@ EINRICHTUNG#####################################################################
 - 5.Es öffnet sich automatisch Browser Fenster mit 192.168.4.1
 - 6.Unter Configuration
 - 6.1 Wifi auswählen oder eingeben und Passwort eingeben
-- 6.2 Mqtt kann derzeit nur ohne ssl und ohne Benutzer/Passwort benutzt werden
+- 6.2 Mqtt kann derzeit nur ohne ssl und sit Version 1.0.0.5 mit Benutzer/Passwort benutzt werden
 - 7.Speichern mit dem Button ganz unten
 - 8.Esp Neustart
 - 9.Ipadresse in Mqtt Client oder Router ausfindig machen
@@ -77,6 +77,14 @@ INBETRIEBNAHME##################################################################
 - 1.Ipaddresse im browser aufrufen
 
 INBETRIEBNAHME##########################################################################################
+
+CONFIGPORTAL############################################################################################
+Um im Nachhinein wieder ins Configportal zu kommen um die Wlan und Mqtt Daten zu ändern muss der 
+- Pin RST vom ESP innerhalb 10sekunden 2X auf GND getippt werden
+- Anwendungsbispiel: Taster 2mal hintereinander drücken
+Daraufhin startet der ESP neu ins Configportal(EINRICHTUNG Punkt 3) , dort trägt man dann alle Daten neu ein, die fehlen
+und klickt auf Save (Button ganz unten)
+CONFIGPORTAL############################################################################################
 
 Tip:
 - Die Webschnittstelle für die Tracer Daten nur max alle 1-2 sekunden aufrufen
