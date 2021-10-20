@@ -3,6 +3,11 @@ der Software entstehen oder entstanden sind.
 Jeder ist für sein tun selber verantwortlich.
 Mir sind keine Probleme bekannt.
 
+3 Dinge sind wichtig für die Umsetzung dieses Projekts:
+- 3,3V
+- Guter Wlan Empfang
+- Readme vollstandig lesen, dann nochmal
+
 <img src="Tracer10420an.png" alt="Epever Controller by BavarianSuperGuy"/>
 
 # EspEpeverController mit Webseite 
