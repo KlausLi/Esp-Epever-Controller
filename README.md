@@ -7,6 +7,19 @@ Mir sind keine Probleme bekannt.
 - 3,3V
 - Guter Wlan Empfang
 - Readme vollstandig lesen, dann nochmal
+wann readme gelesen wurde und ihr daraufhin gemerkt habt
+aufgrund der Methode die beschrieben wird ,
+der wlan empfang ist schlecht und lässt sich nicht ändern
+
+... https://www.google.com/search?q=esp8266+antennenhack
+
+ich kann keinen besseren Empfang programmiern!
+und der esp kann auch nix anderes machen 
+wann er ständig versucht sich  ins Wlan einzuloggen
+
+
+
+
 
 <img src="Tracer10420an.png" alt="Epever Controller by BavarianSuperGuy"/>
 
