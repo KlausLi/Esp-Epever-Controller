@@ -1,3 +1,8 @@
+Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-) ... wann disliken gut wär, dann das auch :-))
+
+https://www.youtube.com/c/BavarianSuperGuy
+
+
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
 der Software entstehen oder entstanden sind. 
 Jeder ist für sein tun selber verantwortlich.
