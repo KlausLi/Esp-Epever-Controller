@@ -2,6 +2,8 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 
 https://www.youtube.com/c/BavarianSuperGuy
 
+Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
+Hier bitte - https://paypal.me/BSGuy
 
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
 der Software entstehen oder entstanden sind. 
@@ -116,5 +118,4 @@ Epever Tracer Json Beispiel:
 <img src="epeverjsondata.png" alt="Epever Controller by BavarianSuperGuy"/>
 
 
-Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
-Hier bitte - https://paypal.me/armerprogrammer
+
